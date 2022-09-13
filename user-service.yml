@@ -1,0 +1,7 @@
+token:
+  secret: "my_token"
+  access_expiration_time: 604800000
+  refresh_expiration_time: 2592000000
+
+ip:
+  allowed: 172.18.0.5
